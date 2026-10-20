@@ -1,0 +1,1 @@
+var e=Object.freeze({workspaceTerms:`terms-v2`,privacyNotice:`privacy-v2`});export{e as t};
